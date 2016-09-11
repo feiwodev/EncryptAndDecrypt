@@ -12,6 +12,7 @@ EncryptAndDecrypt , 文件加密解密与分割合并
 > 界面 与Project目录结构
 
 ![UI](http://upload-images.jianshu.io/upload_images/643851-788b88eea0671dba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 就几个按钮 ， 布局文件就不贴代码了 ， 读者也可以整个输入框，可以输入加密的密码 。
 
 
